@@ -1,0 +1,11 @@
+[package]
+name = "rust-learn"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+# Múltiples binarios para diferentes temas
+[[bin]]
+name = "references"
+path = "references_and_loans/src/main.rs"
