@@ -9,3 +9,7 @@ edition = "2024"
 [[bin]]
 name = "references"
 path = "references_and_loans/src/main.rs"
+
+[[bin]]
+name = "slices"
+path = "slices/src/main.rs"
